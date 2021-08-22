@@ -1,5 +1,7 @@
 ### Hi there 👋
 <h1>I'm Ibrahim SEZER</h1>
+<h1>I'm Husband, Father and Developer!!</h1>
+
 
  <h2>Fullstack Developer</h2>
 
