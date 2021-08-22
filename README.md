@@ -47,8 +47,8 @@
 [Click Here](https://E-Ozdemir.github.io/Index-Of-GitHub-Profile/) -->
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=E-Ozdemir&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=E-Ozdemir&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=szrbrhm&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=szrbrhm&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmelkonig&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-s-4816a7206/)
