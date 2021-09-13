@@ -10,7 +10,7 @@
 ## 💻 Frontend
 
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo-500x283.png" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="55"/> </a>
@@ -46,7 +46,7 @@
 <br>
 
 <!-- This repository helps you to easily review the projects in my profile. 
-[Click Here](https://E-Ozdemir.github.io/Index-Of-GitHub-Profile/) -->
+[Click Here](https://szrbrhm.github.io/Index-Of-GitHub-Profile/) -->
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=szrbrhm&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
